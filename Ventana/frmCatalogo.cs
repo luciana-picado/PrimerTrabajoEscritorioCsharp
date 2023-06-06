@@ -15,7 +15,7 @@ namespace Ventana
 {
     public partial class frmCatalogo : Form
 
-    {
+    { //le agrego commit para git
         private List<Articulos> listaArticulos;
 
         public frmCatalogo()
